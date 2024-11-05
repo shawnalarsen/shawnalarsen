@@ -12,8 +12,7 @@
 
 ### Skills
 - **Languages**: Python, R, SQL, SAS
-- **Libraries**: pandas, scikit-learn, ggplot2
-- **Tools**: Excel, Tableau, RStudio
+- **Tools**: Excel, RStudio, JupyterNotebooks
 <!---
 shawnalarsen/shawnalarsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
