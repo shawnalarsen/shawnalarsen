@@ -8,7 +8,7 @@
 
 ### Projects
 - [ML Sleep Project](https://github.com/shawnalarsen/ML-Sleep-Project) - EDA / Model Building and Comparison in R.
-- [Research Design Project](Link to Project) - Statistical analyses & visualization from research project.
+- [Research Design Project](https://github.com/shawnalarsen/Visualization-Research) - Statistical analyses & visualization from research project.
 
 ### Skills
 - **Languages**: Python, R, SQL, SAS
