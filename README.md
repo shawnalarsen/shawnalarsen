@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shawna Larsen
-- 🎓 Recent graduate in Statistics and Data Science & Psychological and Brain Sciences
-- 💻 Data Analyst and Machine Learning Enthusiast
-- 📊 Passionate about transforming data into actionable insight
+- 🎓 Recent honors graduate in Statistics & Data Science (B.S.) and Psychological & Brain Sciences (B.S.)
+- 💻 Aspiring Data Analyst
 - 📫 How to reach me: shawna.r.larsen@gmail.com
 
 
@@ -11,7 +10,7 @@
 - [Research Design Project](https://github.com/shawnalarsen/Visualization-Research) - (2023) Statistical analyses & visualization from research project.
 
 ### Skills
-- **Languages**: Python, R, SQL, SAS
+- **Languages**: SQL, R, Python, base SAS
 - **Tools**: Excel, RStudio, Jupyter Notebook
 <!---
 shawnalarsen/shawnalarsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
